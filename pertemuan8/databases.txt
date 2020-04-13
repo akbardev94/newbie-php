@@ -1,0 +1,9 @@
+database : phpdasar
+tabel : mahasiswa
+
+id => int - primary key - auto increament
+nama => varchar(100)
+nim => varchar(100)
+email => varchar(100)
+jurusan => varchar(100)
+gambar => varchar(100)
